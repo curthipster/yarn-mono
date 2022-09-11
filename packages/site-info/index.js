@@ -1,5 +1,5 @@
 const PROJECT = {
-  title: 'Site Title Three',
+  title: 'Site Title Four',
   subtitle: 'My great monorepo',
 };
 
